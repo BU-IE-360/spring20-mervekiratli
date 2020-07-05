@@ -1,3 +1,9 @@
+# IE 360 - MERVE GULSUM KIRATLI PROGRESS PAGE
+
+[HERE](https://bu-ie-360.github.io/spring20-mervekiratli/) in this we site, you can find IE 360 progresses about;
+- IE 360 Homework,
+- IE 360 Term Project
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BU-IE-360/spring20-mervekiratli/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
