@@ -1,5 +1,7 @@
-﻿# Example Progress Journal
+﻿# IE 360 Progress Journal
 
-## Week 0 (September 19)
+## Week 0
+[Here](files/interesting_examples.html) is my interesting examples.
 
+## Term Project - Group 14 (06.07.2020)
 [Here](files/360-PROJECT-2.html) is our final report.
